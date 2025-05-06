@@ -1,0 +1,14 @@
+EMPLOYEE,DATE,EMPLOYEE ID,TAGS,"SCH.
+SHIFT START","SCH.
+SHIFT END","CLOCK IN
+TIME","CLOCK OUT
+TIME","AUTO
+CLOCK-OUT","SCH. SHIFT
+DURATION","SHIFT
+DURATION",DIFFERENCE,STATUS,NOTES
+Alexandra Sól Gísladóttir, ,,, , , , , ,"15,00","16,67","1,67",,
+Alexandra Sól Gísladóttir,02 Apr 2025,,Læknir eða annað,16:00,19:00,15:50,19:05,No,"3,00","3,25","0,25",Approved,
+Alexandra Sól Gísladóttir,03 Apr 2025,,Afleysing,14:00,18:00,13:50,18:10,No,"4,00","4,33","0,33",Approved,
+Alexandra Sól Gísladóttir,08 Apr 2025,, ,14:00,17:00,13:55,18:00,Yes,"3,00","4,08","1,08",Approved,
+Alexandra Sól Gísladóttir,16 Apr 2025,,Adidas taska,13:30,18:30,13:30,18:30,No,"5,00","5,00",,Approved,
+TOTAL,,,,,,,,,"15,00","16,67","1,67",,
