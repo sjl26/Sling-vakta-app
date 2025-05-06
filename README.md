@@ -1,0 +1,2 @@
+# npa-vakta-app
+launakeyrsluapp
